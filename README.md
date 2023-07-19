@@ -1,5 +1,7 @@
 # DEF CON 31 - Chamber SAO Adapter
 
+![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/chamber_front.jpg)
+
 ## PURCHASE A KIT:
 https://www.tindie.com/products/30971/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
