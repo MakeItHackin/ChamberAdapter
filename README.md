@@ -6,7 +6,7 @@
 https://www.tindie.com/products/30971/  or purchase at Hacker Warehouse at DEF CON 31 in the Vendor Area.
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-TBD 
+https://youtu.be/Q6jLFrrscGw
 
 ## INSTRUCTIONS FOR ASSEMBLING THE BADGE LIFE SAO SOLDERING KIT:  
 https://github.com/MakeItHackin/BadgeLifeSAO  
