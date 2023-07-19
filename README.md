@@ -6,8 +6,8 @@ https://www.tindie.com/products/30971/  or purchase at Hacker Warehouse at DEF C
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
 TBD 
 
-## INSTRUCTIONS:  
-Please watch YouTube video tutorial.  
+## INSTRUCTIONS FOR ASSEMBLING THE BADGE LIFE SAO SOLDERING KIT:  
+https://github.com/MakeItHackin/BadgeLifeSAO  
 
 ## DESCRIPTION:  
 This SAO Adapter electrifies your Official DEF CON 31 Badge!  The Official DEF CON 31 Badge is not going to be electronic this year (2023).  Although we don't know what it looks like yet, DEF CON announced there will be a "chamber" in the badge in which you can insert... anything you want.  The SAO Adapter slides into that chamber (see reference pictures) and provides two SAO ports powered by 3.3 volts. You should be safe to power up to 350 milliamps.  Stickers and Googly Eyes are also included :)  The orange "badge simulator" you see in the photos is for reference only and is not included.
