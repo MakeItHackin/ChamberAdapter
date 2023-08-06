@@ -12,6 +12,9 @@ https://youtu.be/Q6jLFrrscGw
 https://github.com/MakeItHackin/BadgeLifeSAO  
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/how%20to%20insert%20-%20chamber.jpg)
 
+## TROUBLESHOOTING:  
+![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/SAO%20TROUBLESHOOTING.jpg)
+
 ## DESCRIPTION:  
 This SAO Adapter electrifies your Official DEF CON 31 Badge!  The Official DEF CON 31 Badge is not going to be electronic this year (2023).  Although we don't know what it looks like yet, DEF CON announced there will be a "chamber" in the badge in which you can insert... anything you want.  The SAO Adapter slides into that chamber (see reference pictures) and provides two SAO ports powered by 3.3 volts. You should be safe to power up to 350 milliamps.  Stickers and Googly Eyes are also included :)  The orange "badge simulator" you see in the photos is for reference only and is not included.
 
