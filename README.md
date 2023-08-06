@@ -15,6 +15,7 @@ https://github.com/MakeItHackin/BadgeLifeSAO
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/how%20to%20insert%20-%20chamber.jpg)
 
 ## TROUBLESHOOTING:  
+Missing a part?  Send me a message on Github, Twitter, Mastodon, Instagram  
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/SAO%20TROUBLESHOOTING.jpg)
 
 ## DESCRIPTION:  
