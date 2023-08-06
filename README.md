@@ -10,6 +10,8 @@ https://youtu.be/Q6jLFrrscGw
 
 ## INSTRUCTIONS FOR ASSEMBLING THE BADGE LIFE SAO SOLDERING KIT:  
 https://github.com/MakeItHackin/BadgeLifeSAO  
+
+## INSERTING BOARD INTO THE DC31 BADGE:  
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/ChamberAdapter/main/images/how%20to%20insert%20-%20chamber.jpg)
 
 ## TROUBLESHOOTING:  
